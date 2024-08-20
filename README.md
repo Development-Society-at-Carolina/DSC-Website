@@ -6,4 +6,4 @@ You can check out our [Heellife Page](https://heellife.unc.edu/organization/dsca
 
 > Domain name: www.dscarolina.com
 
-Note: it's pronounced disk
+*it's pronounced disk*
