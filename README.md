@@ -7,3 +7,7 @@ You can check out our [Heellife Page](https://heellife.unc.edu/organization/dsca
 > Domain name: www.dscunc.com
 
 *it's pronounced disk*
+
+# Figma Wireframe
+
+This is the link to the wireframe created in [Figma](https://www.figma.com/design/BbJsypBLO39ENGbjQgxlDu/DSC-Website-Starter?node-id=101-69&t=hYSLoVqjXvnHkug8-1).
